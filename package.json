@@ -48,7 +48,7 @@
   "dependencies": {
     "@huggingface/inference": "^2.5.0",
     "@supabase/supabase-js": "^2.21.0",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "chai": "^4.3.6",
     "date-fns": "^2.30.0",
     "date-fns-tz": "^2.0.0",
